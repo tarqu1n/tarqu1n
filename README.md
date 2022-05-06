@@ -2,8 +2,8 @@
 
 I'm a Software Engineer, Maker, Crafter, Painter, Gamer! I suffer from an overwhelming need to make things, tangible or otherwise.🔥
 
-- 🔭 I’m currently working at [Zegami](https://www.zegami.com).
-- 🌱 I’m currently learning about ops with Kubernetes.
+- 🔭 I’m currently working at [Third Bridge](https://thirdbridge.com/).
+- 🌱 I’m currently learning about Clojure.
 - 📐 My Current hobby obcession is: 3d printing and miniature painting.
 
 ### Find me on the internets 🌍:
